@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227020770037",
+    "project_id": "juber-car-booking",
+    "storage_bucket": "juber-car-booking.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227020770037:android:09983cc654d29a2a2053bc",
+        "android_client_info": {
+          "package_name": "com.iconic.juber_car_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5DI8Af6JDUbRCWOVRbv0--l0IBDMHWZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

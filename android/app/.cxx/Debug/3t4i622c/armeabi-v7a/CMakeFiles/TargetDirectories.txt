@@ -1,0 +1,2 @@
+/Users/apple/Downloads/full_apps 2/28-juber_car_booking/juber_car_booking/android/app/.cxx/Debug/3t4i622c/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/apple/Downloads/full_apps 2/28-juber_car_booking/juber_car_booking/android/app/.cxx/Debug/3t4i622c/armeabi-v7a/CMakeFiles/edit_cache.dir
